@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IQOPIRQH
 
 [Document10]
-DocumentPath=CONN.SchDoc
+DocumentPath=RELAYS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PTTQRTOE
+DocumentUniqueId=NYSSAACO
 
 [Document11]
 DocumentPath=POWER.SchDoc
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=USGTYROD
 
 [Document12]
-DocumentPath=RELAYS.SchDoc
+DocumentPath=CONN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NYSSAACO
+DocumentUniqueId=PTTQRTOE
 
 [Configuration1]
 Name=Sources
